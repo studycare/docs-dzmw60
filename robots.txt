@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-dqp97u.privatetalks.online/sitemap.xml
